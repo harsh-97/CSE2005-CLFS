@@ -1,4 +1,4 @@
-# CSE2006-CLFS
+# CSE2005-CLFS
 An attempt to create a cross compiled Linux system from scratch, for our CSE2006 course
 
 This follows the guide as given at ```http://www.clfs.org/view/CLFS-3.0.0-SYSTEMD/x86_64-64/```
