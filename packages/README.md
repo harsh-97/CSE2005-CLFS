@@ -1,6 +1,6 @@
 # Packages
 
-[Source for Links](http://www.clfs.org/view/CLFS-3.0.0-SYSTEMD/x86_64-64/materials/packages.html)
+[Aggregated Download Links](http://ftp.clfs.org/pub/clfs/conglomeration/)
 
 
  Download or otherwise obtain the following packages:
