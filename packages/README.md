@@ -1,5 +1,8 @@
 # Packages
 
+[Source for Links](http://www.clfs.org/view/CLFS-3.0.0-SYSTEMD/x86_64-64/materials/packages.html)
+
+
  Download or otherwise obtain the following packages:
 
 ACL (2.2.52) - 384 KB:
